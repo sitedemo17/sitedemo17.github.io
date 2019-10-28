@@ -26,7 +26,8 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -492,7 +493,7 @@
             "twitter": "sitedemo17",
             "youtube": "",
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#232323",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
