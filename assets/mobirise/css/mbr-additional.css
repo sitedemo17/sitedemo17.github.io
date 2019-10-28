@@ -1111,3 +1111,43 @@ section.lazy-placeholder:after {
 .cid-rGb84HD5RT .social-list a:focus {
   text-decoration: none;
 }
+.cid-rGbbJgy4OB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rGbbJgy4OB .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rGbbJgy4OB .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rGbbJgy4OB .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rGbbJgy4OB .team-item .item-image img {
+  width: 100%;
+}
+.cid-rGbbJgy4OB .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rGbbJgy4OB .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rGbbJgy4OB .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rGbbJgy4OB .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rGbbJgy4OB .team-item .item-caption {
+  background: #efefef;
+}
