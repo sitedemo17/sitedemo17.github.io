@@ -32,9 +32,15 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "4.11.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -485,15 +491,15 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "postToLoad": "10",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": "9",
             "facebookToken": "",
             "facebook": "",
-            "twitter": "sitedemo17",
+            "twitter": "mobirise",
             "youtube": "",
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#fff",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
@@ -505,7 +511,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-3"
+          "_anchor": "feed-5"
         }
       ]
     }
